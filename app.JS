@@ -84,7 +84,29 @@ switch (dia) {
 let contador = 1
 while(contador <=10){
     console.log(contador)
-    contador = ++ //contador = contador + 1
+    contador ++ //contador = contador + 1
 }
 
-for(let contador2 = 10; contador2)
+for(let contador2 = 10; contador2<=20; contador2++){ // for:para
+
+    console.log(contador2)
+
+}
+
+/*
+
+while(condição){
+
+    código do laço de repetição
+
+}
+
+
+
+for(inicialização; condição; incremento){
+
+    código do laço de repetição
+
+}
+
+*/
